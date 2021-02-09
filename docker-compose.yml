@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  order-sim:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./
+    environment:
+      ORDERSIM_PER_SEC_INGEST_RATE: 2

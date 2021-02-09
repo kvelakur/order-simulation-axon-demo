@@ -4,6 +4,7 @@
     <plugin id="CheckStyle-IDEA" />
     <plugin id="EclipseCodeFormatter" />
     <plugin id="Lombook Plugin" />
+    <!-- Save Actions plugin -->
     <plugin id="com.dubreuia" />
   </component>
 </project>
